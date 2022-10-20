@@ -2,8 +2,4 @@
 
 //Say Hello
 
-string MyName;
 
-Console.WriteLine("What is your name?");
-MyName = Console.ReadLine();
-Console.WriteLine("Hello" + MyName +"! Have a good day!");
