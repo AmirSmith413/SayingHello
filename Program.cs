@@ -1,6 +1,4 @@
-﻿//Mini Challenge #1 
-//Finished on:8/9/22
-//Peer Reviewed by:Saul Suazo
+
 
 //This program will ask you for your name and say "Hello" to you.
 string name;
