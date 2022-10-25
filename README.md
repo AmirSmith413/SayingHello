@@ -1,4 +1,4 @@
 # SayingHello
 
-Peer Reviewed by:
-Peer Comment:
+Peer Reviewed by: Patrick De Leon
+Peer Comment: Everything works well! No errors!

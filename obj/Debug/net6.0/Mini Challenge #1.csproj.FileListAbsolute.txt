@@ -1,0 +1,15 @@
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\bin\Debug\net6.0\Mini Challenge #1.exe
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\bin\Debug\net6.0\Mini Challenge #1.deps.json
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\bin\Debug\net6.0\Mini Challenge #1.runtimeconfig.json
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\bin\Debug\net6.0\Mini Challenge #1.dll
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\bin\Debug\net6.0\Mini Challenge #1.pdb
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.csproj.AssemblyReference.cache
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.AssemblyInfoInputs.cache
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.AssemblyInfo.cs
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.csproj.CoreCompileInputs.cache
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.dll
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\refint\Mini Challenge #1.dll
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.pdb
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\Mini Challenge #1.genruntimeconfig.cache
+C:\Users\zerot\Documents\Codestack\Level1\Git_Challenges\PeerReviewGitChallenges\AmirsSayHello\SayingHello\obj\Debug\net6.0\ref\Mini Challenge #1.dll
